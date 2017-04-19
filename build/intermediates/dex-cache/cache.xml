@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/kshivang/.android/build-cache/b399571af9fa254ae7efe0ea42846be87485734d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/kshivang/Desktop/New_Development/NativeActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aee8c410fc32055fad369d40b447727b8548bc65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kshivang/Desktop/New_Development/NativeActivity/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/kshivang/Desktop/New_Development/NativeActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_25ec21138a7dbb93d22af6d4ce243bd0f174a119/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kshivang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/kshivang/Desktop/New_Development/NativeActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_f4d81f8d2a85af1db304155721c108fb2491b998/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kshivang/.android/build-cache/13b9ce3bb13450badc2a84823ae5b31bf86090e8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/kshivang/Desktop/New_Development/NativeActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_853495b59082e4ca2199a9829516d958681d88c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kshivang/.android/build-cache/cd1f96a557cc9ba8aa7d50cbee2212b59f7dd186/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/kshivang/Desktop/New_Development/NativeActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e84489293bbebe616e245b334a7d06564e417f88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kshivang/.android/build-cache/1405965537613abd04b83a420ce550d3455d877e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/kshivang/Desktop/New_Development/NativeActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0e02bcfd852975e9df22f3ac446ce2821c74b42f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kshivang/.android/build-cache/2b42ce1c10fb446a93155f89869a45ec2d45029f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/kshivang/Desktop/New_Development/NativeActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_427f9ce183515aeb0ae2279027ee0fdd884c580c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kshivang/.android/build-cache/4dbda8eab0735c9d42c65f6e2daf80784ae41ee5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/kshivang/Desktop/New_Development/NativeActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f9006269a9d57858204eb9b553578df9228453a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kshivang/.android/build-cache/feb634bcf8bfa4a825f71091181bdd87704329d9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7113302c965566b66df46c6ca75ea301576114a5">
+        <dex dex="/Users/kshivang/Desktop/New_Development/NativeActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2ca22f9fa1cacbf4ade716bab2c0948971dd6638/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kshivang/.android/build-cache/3ace307e0ec66c0a386180f5fb0fc3995a0f332f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/kshivang/Desktop/New_Development/NativeActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a6b0fb029fff7a48d2d4f15953a347d995c75ac4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kshivang/Desktop/New_Development/NativeActivity/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93be7e48600d1976b4ffcbb68c3e60211811f538">
+        <dex dex="/Users/kshivang/Desktop/New_Development/NativeActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6ff088ccdadc4836a66ac29afd4f3a7b6bb68268/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kshivang/.android/build-cache/82862a3dfca23600794e6a6857c899bb732642c7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/kshivang/Desktop/New_Development/NativeActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b7f7e947eaad4e3f35adb9b9d78be2042ac9ac18/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kshivang/.android/build-cache/f2e24d5b697d098577d71d16ef7379aa91f7e967/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/kshivang/Desktop/New_Development/NativeActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b90c39cd385f4675aa25ae868226dbf8f4f86e8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kshivang/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.1/constraint-layout-solver-1.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ad79631209e77b0a2730fc112b4cc0c66a95132">
+        <dex dex="/Users/kshivang/Desktop/New_Development/NativeActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.1_f5d82dcb3751c6f4a1ec2f1b94cb7c84fa870cd5/classes.dex" />
+    </item>
+
+</items>

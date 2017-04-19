@@ -1,0 +1,17 @@
+Executable : /Users/kshivang/Library/Android/sdk/cmake/3.6.3155560/bin/cmake
+arguments : 
+-H/Users/kshivang/Desktop/New_Development/NativeActivity/app/src/main/cpp
+-B/Users/kshivang/Desktop/New_Development/NativeActivity/app/.externalNativeBuild/cmake/debug/x86_64
+-GAndroid Gradle - Ninja
+-DANDROID_ABI=x86_64
+-DANDROID_NDK=/Users/kshivang/Library/Android/sdk/ndk-bundle
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/kshivang/Desktop/New_Development/NativeActivity/app/build/intermediates/cmake/debug/obj/x86_64
+-DCMAKE_BUILD_TYPE=Debug
+-DCMAKE_MAKE_PROGRAM=/Users/kshivang/Library/Android/sdk/cmake/3.6.3155560/bin/ninja
+-DCMAKE_TOOLCHAIN_FILE=/Users/kshivang/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake
+-DANDROID_PLATFORM=android-21
+-DANDROID_PLATFORM=android-9
+-DANDROID_TOOLCHAIN=clang
+-DANDROID_STL=gnustl_static
+jvmArgs : 
+

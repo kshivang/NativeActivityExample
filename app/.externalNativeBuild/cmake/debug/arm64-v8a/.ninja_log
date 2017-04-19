@@ -1,0 +1,5 @@
+# ninja log v5
+0	275	0	CMakeFiles/app-glue.dir/Users/kshivang/Library/Android/sdk/ndk-bundle/sources/android/native_app_glue/android_native_app_glue.c.o	ddf409cf2d06c8d5
+276	461	0	libapp-glue.a	4b6d54357b1fcad1
+461	1219	0	CMakeFiles/native-activity.dir/main.cpp.o	a3e8cb9ffc63d9b7
+1220	1327	0	/Users/kshivang/Desktop/New_Development/NativeActivity/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-activity.so	eafbb6f0e25bcdb3

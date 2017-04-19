@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/kshivang/Desktop/New_Development/NativeActivity/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/kshivang/.android/build-cache/4dbda8eab0735c9d42c65f6e2daf80784ae41ee5/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/kshivang/Desktop/New_Development/NativeActivity/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/kshivang/.android/build-cache/4dbda8eab0735c9d42c65f6e2daf80784ae41ee5/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/kshivang/Desktop/New_Development/NativeActivity/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/kshivang/.android/build-cache/4dbda8eab0735c9d42c65f6e2daf80784ae41ee5/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/kshivang/Desktop/New_Development/NativeActivity/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/kshivang/.android/build-cache/4dbda8eab0735c9d42c65f6e2daf80784ae41ee5/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/kshivang/Desktop/New_Development/NativeActivity/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/kshivang/.android/build-cache/4dbda8eab0735c9d42c65f6e2daf80784ae41ee5/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/kshivang/Desktop/New_Development/NativeActivity/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/kshivang/.android/build-cache/4dbda8eab0735c9d42c65f6e2daf80784ae41ee5/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/kshivang/Desktop/New_Development/NativeActivity/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/kshivang/.android/build-cache/4dbda8eab0735c9d42c65f6e2daf80784ae41ee5/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/kshivang/Desktop/New_Development/NativeActivity/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/kshivang/.android/build-cache/4dbda8eab0735c9d42c65f6e2daf80784ae41ee5/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/kshivang/Desktop/New_Development/NativeActivity/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/kshivang/.android/build-cache/4dbda8eab0735c9d42c65f6e2daf80784ae41ee5/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/kshivang/Desktop/New_Development/NativeActivity/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/kshivang/.android/build-cache/4dbda8eab0735c9d42c65f6e2daf80784ae41ee5/output/res/anim/abc_popup_enter.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/kshivang/Desktop/New_Development/NativeActivity/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/kshivang/.android/build-cache/4dbda8eab0735c9d42c65f6e2daf80784ae41ee5/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/kshivang/Desktop/New_Development/NativeActivity/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/kshivang/.android/build-cache/4dbda8eab0735c9d42c65f6e2daf80784ae41ee5/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/kshivang/Desktop/New_Development/NativeActivity/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/kshivang/.android/build-cache/4dbda8eab0735c9d42c65f6e2daf80784ae41ee5/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/kshivang/Desktop/New_Development/NativeActivity/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/kshivang/.android/build-cache/4dbda8eab0735c9d42c65f6e2daf80784ae41ee5/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/kshivang/Desktop/New_Development/NativeActivity/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/kshivang/.android/build-cache/4dbda8eab0735c9d42c65f6e2daf80784ae41ee5/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/kshivang/Desktop/New_Development/NativeActivity/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/kshivang/.android/build-cache/4dbda8eab0735c9d42c65f6e2daf80784ae41ee5/output/res/layout-v11/notification_template_big_media.xml"
+    }
+]

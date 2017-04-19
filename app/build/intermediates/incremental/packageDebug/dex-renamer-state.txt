@@ -1,0 +1,7 @@
+#Mon Mar 06 02:24:16 IST 2017
+base.0=/Users/kshivang/Desktop/New_Development/NativeActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6ff088ccdadc4836a66ac29afd4f3a7b6bb68268
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/kshivang/Desktop/New_Development/NativeActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_25ec21138a7dbb93d22af6d4ce243bd0f174a119/classes.dex
+base.1=/Users/kshivang/Desktop/New_Development/NativeActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_25ec21138a7dbb93d22af6d4ce243bd0f174a119
+file.0=/Users/kshivang/Desktop/New_Development/NativeActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6ff088ccdadc4836a66ac29afd4f3a7b6bb68268/classes.dex

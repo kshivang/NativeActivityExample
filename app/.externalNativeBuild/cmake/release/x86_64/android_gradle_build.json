@@ -1,0 +1,60 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/kshivang/Desktop/New_Development/NativeActivity/app/src/main/cpp/CMakeLists.txt"
+	],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"/Users/kshivang/Library/Android/sdk/cmake/3.6.3155560/bin/cmake --build /Users/kshivang/Desktop/New_Development/NativeActivity/app/.externalNativeBuild/cmake/release/x86_64 --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"app-glue-Release-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "app-glue",
+			"buildCommand" : "/Users/kshivang/Library/Android/sdk/cmake/3.6.3155560/bin/cmake --build /Users/kshivang/Desktop/New_Development/NativeActivity/app/.externalNativeBuild/cmake/release/x86_64 --target app-glue",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android --gcc-toolchain=/Users/kshivang/Library/Android/sdk/ndk-bundle/toolchains/x86_64-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/kshivang/Library/Android/sdk/ndk-bundle/platforms/android-21/arch-x86_64   -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG -O2 -DNDEBUG  -fPIC      -c ",
+					"src" : "/Users/kshivang/Library/Android/sdk/ndk-bundle/sources/android/native_app_glue/android_native_app_glue.c",
+					"workingDirectory" : "/Users/kshivang/Desktop/New_Development/NativeActivity/app/.externalNativeBuild/cmake/release/x86_64"
+				}
+			],
+			"output" : "/Users/kshivang/Desktop/New_Development/NativeActivity/app/.externalNativeBuild/cmake/release/x86_64/libapp-glue.a",
+			"toolchain" : "11788578988786756723"
+		},
+		"native-activity-Release-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "native-activity",
+			"buildCommand" : "/Users/kshivang/Library/Android/sdk/cmake/3.6.3155560/bin/cmake --build /Users/kshivang/Desktop/New_Development/NativeActivity/app/.externalNativeBuild/cmake/release/x86_64 --target native-activity",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android --gcc-toolchain=/Users/kshivang/Library/Android/sdk/ndk-bundle/toolchains/x86_64-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/kshivang/Library/Android/sdk/ndk-bundle/platforms/android-21/arch-x86_64  -Dnative_activity_EXPORTS -I/Users/kshivang/Library/Android/sdk/ndk-bundle/sources/android/native_app_glue -isystem /Users/kshivang/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/kshivang/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86_64/include -isystem /Users/kshivang/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security   -std=gnu++11 -O2 -DNDEBUG -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/kshivang/Desktop/New_Development/NativeActivity/app/src/main/cpp/main.cpp",
+					"workingDirectory" : "/Users/kshivang/Desktop/New_Development/NativeActivity/app/.externalNativeBuild/cmake/release/x86_64"
+				}
+			],
+			"output" : "/Users/kshivang/Desktop/New_Development/NativeActivity/app/build/intermediates/cmake/release/obj/x86_64/libnative-activity.so",
+			"toolchain" : "11788578988786756723"
+		}
+	},
+	"toolchains" : 
+	{
+		"11788578988786756723" : 
+		{
+			"cCompilerExecutable" : "/Users/kshivang/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/kshivang/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

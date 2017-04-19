@@ -1,0 +1,4 @@
+/Users/kshivang/Desktop/New_Development/NativeActivity/app/.externalNativeBuild/cmake/release/armeabi/CMakeFiles/edit_cache.dir
+/Users/kshivang/Desktop/New_Development/NativeActivity/app/.externalNativeBuild/cmake/release/armeabi/CMakeFiles/rebuild_cache.dir
+/Users/kshivang/Desktop/New_Development/NativeActivity/app/.externalNativeBuild/cmake/release/armeabi/CMakeFiles/native-activity.dir
+/Users/kshivang/Desktop/New_Development/NativeActivity/app/.externalNativeBuild/cmake/release/armeabi/CMakeFiles/app-glue.dir

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/kshivang/Desktop/New_Development/NativeActivity/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/kshivang/.android/build-cache/4dbda8eab0735c9d42c65f6e2daf80784ae41ee5/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/kshivang/Desktop/New_Development/NativeActivity/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/kshivang/.android/build-cache/4dbda8eab0735c9d42c65f6e2daf80784ae41ee5/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/kshivang/Desktop/New_Development/NativeActivity/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/kshivang/.android/build-cache/4dbda8eab0735c9d42c65f6e2daf80784ae41ee5/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/kshivang/Desktop/New_Development/NativeActivity/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/kshivang/.android/build-cache/4dbda8eab0735c9d42c65f6e2daf80784ae41ee5/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]
